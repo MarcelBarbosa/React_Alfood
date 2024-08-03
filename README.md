@@ -1,6 +1,6 @@
 ## Descriçao:
 
-Projeto utilizando React com suas ferramentas e Axios para a integração e busca de dados em API's
+Projeto utilizando React com suas ferramentas e Axios para a integração e busca de dados em API's hospedada em um container Docker
 
 ## Ferramentas principais:
 
