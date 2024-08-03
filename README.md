@@ -10,3 +10,4 @@ Projeto utilizando React com suas ferramentas e Axios para a integração e busc
 * Axios
 
 ## Visualização:
+[https://react-alfood.vercel.app]
